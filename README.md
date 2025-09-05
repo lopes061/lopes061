@@ -77,7 +77,7 @@ Programa didático que explica divisão modular passo a passo, aplicando conceit
 ## 🎓 Formação Acadêmica
 **Engenharia de Software**  
 Universidade de Brasília (UnB)  
-Conclusão prevista: **Jul/2028**
+Conclusão prevista: **Jul/2027**
 
 ---
 
