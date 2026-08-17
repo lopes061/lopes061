@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0A0A0A,100:0F1B26&text=Enzo%20Lopes&fontColor=F5F5F5&fontSize=52&fontAlignY=38&desc=Backend%20%2B%20Automa%C3%A7%C3%A3o%20%2B%20Sistemas%20que%20rodam%20de%20verdade&descSize=17&descAlignY=58&descColor=9099A3" width="100%"/>
 
 <a href="https://github.com/lopes061">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=20&duration=2800&pause=1200&color=F5F5F5&center=true&vCenter=true&width=650&lines=Engenharia+de+Software+%40+UnB+(2028);Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;ERPs%2C+emiss%C3%A3o+fiscal+e+automa%C3%A7%C3%A3o+de+dados;Do+script+que+resolve+o+problema+ao+sistema+em+produ%C3%A7%C3%A3o" alt="typing banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Sans&size=20&duration=2800&pause=1200&color=F5F5F5&center=true&vCenter=true&width=650&lines=Engenharia+de+Software+%40+UnB+(2028);Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;ERPs%2C+emiss%C3%A3o+fiscal+e+automa%C3%A7%C3%A3o+de+dados;Do+script+que+resolve+o+problema+ao+sistema+em+produ%C3%A7%C3%A3o">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=20&duration=2800&pause=1200&color=181B20&center=true&vCenter=true&width=650&lines=Engenharia+de+Software+%40+UnB+(2028);Python+%C2%B7+Java+%C2%B7+TypeScript+%C2%B7+Flutter;ERPs%2C+emiss%C3%A3o+fiscal+e+automa%C3%A7%C3%A3o+de+dados;Do+script+que+resolve+o+problema+ao+sistema+em+produ%C3%A7%C3%A3o" alt="typing banner">
+  </picture>
 </a>
 
 </div>
